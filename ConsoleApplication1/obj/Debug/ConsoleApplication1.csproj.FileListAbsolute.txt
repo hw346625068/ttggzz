@@ -1,1 +1,2 @@
 D:\TGZ\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\GIT仓库\ttggzz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
